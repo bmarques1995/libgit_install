@@ -1,0 +1,9 @@
+[submodule "modules/libgit2"]
+	path = modules/libgit2
+	url = https://github.com/libgit2/libgit2.git
+[submodule "modules/zlib"]
+	path = modules/zlib
+	url = https://github.com/madler/zlib.git
+[submodule "modules/openssl"]
+	path = modules/openssl
+	url = https://github.com/openssl/openssl.git
